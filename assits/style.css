@@ -668,6 +668,15 @@ width: 100%;
     .skills_content{
         grid-template-columns: repeat(2,max-content);
     }
+    .card-list .card-item .activity-img {
+        width: 726px;
+        height: 250px;
+        border-radius: 8px;
+        margin-bottom: 40px;
+        border: 1px solid #fff;
+        padding: 1px;
+        object-fit: fill;
+    }
 
 }
 /* FOR MEDIUM DEVICE */
